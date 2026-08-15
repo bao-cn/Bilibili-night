@@ -1,6 +1,8 @@
+
+
 # Bilibili-Night 
 
-<img algin="center" src="https://img.shields.io/github/stars/6get-xiaofan/Bilibili-night">&nbsp;<img algin="center" src="https://img.shields.io/github/forks/6get-xiaofan/Bilibili-night?color=green">&nbsp;<img algin="center" src="https://img.shields.io/github/license/6get-xiaofan/Bilibili-night?color=red">&nbsp;<img algin="center" src="https://img.shields.io/github/issues/6get-xiaofan/Bilibili-night?color=%23a65d4d">
+<img align="center" src="https://img.shields.io/github/stars/6get-xiaofan/Bilibili-night">&nbsp;<img align="center" src="https://img.shields.io/github/forks/6get-xiaofan/Bilibili-night?color=green">&nbsp;<img align="center" src="https://img.shields.io/github/license/6get-xiaofan/Bilibili-night?color=red">&nbsp;<img align="center" src="https://img.shields.io/github/issues/6get-xiaofan/Bilibili-night?color=%23a65d4d">
 
 ## 💎简介
 
